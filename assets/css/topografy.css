@@ -1,0 +1,46 @@
+.bg-p{
+    background-color:#FFECEC;
+}
+.bg-p2{
+    background-color: #F7ECFF;
+}
+.bg-b{
+    background-color: #ECF0FF;
+}
+.bg-g{
+    background-color: #D7F9F3;
+}
+.bg-g2{
+    background-color: #E2FFD4;
+}
+.bg-w{
+    background-color: #fff;
+}
+.bg-o{
+    background-color:  #FFF3C9;
+}
+.bg-p3{
+    background-color: #FFD9C9;;
+}
+/* ********* */
+.text-w{
+    color: white;
+}
+/* ***** */
+.text-18{
+    font-size: 18px;
+}
+/* About.html içerikleri için. */
+a{
+    text-decoration: none; 
+}
+ul>li{
+    list-style:none ;
+    text-decoration: none;
+    list-style-type:none ;
+}
+h1{
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase ;
+}

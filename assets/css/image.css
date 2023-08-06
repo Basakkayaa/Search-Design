@@ -1,0 +1,10 @@
+#img, #img2, #img3:not(main.css){
+    width: 200px;
+    height: 200px;
+    transition: transform 0.2s;
+    margin-left: 27px;
+}
+img:hover{
+    transform: scale(1.5); /* Resmi %10 büyüt */
+    scroll-behavior: smooth;
+}
